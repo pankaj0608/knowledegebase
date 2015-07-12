@@ -1,0 +1,23 @@
+[
+  {
+    "_id": "55a2cb14d9fcbceb36f59d8c",
+    "title": "Article One",
+    "category": "Technology",
+    "body": "This is the body",
+    "date": "2015-07-12T20:16:20.945Z"
+  },
+  {
+    "_id": "55a2cb87d9fcbceb36f59d8d",
+    "title": "Article Two",
+    "category": "Education",
+    "body": "This is the body",
+    "date": "2015-07-12T20:18:15.750Z"
+  },
+  {
+    "_id": "55a2cb8ed9fcbceb36f59d8e",
+    "title": "Article Three",
+    "category": "Education",
+    "body": "This is the body",
+    "date": "2015-07-12T20:18:22.917Z"
+  }
+]
